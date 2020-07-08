@@ -1,12 +1,56 @@
+.nav-item{
+    font-weight: bolder;
+}
 .btn-success {
+    font-size: 15px;
 border-radius: 30px;
 }
 .course-color{
-    background-color: #fceae8;
+    background-color: #F8FFFB;
 }
 .comment{
     padding: 20px;
 }
 .img{
    padding-top: 30px;
+}
+.card img{
+    width: 100%;
+}
+.single_box img{
+    width: 80px;
+    height: 80px;
+}
+.single_box{
+    margin: 25px 0;
+    background: #F8FFFB;
+    border-radius: 10px;
+    padding: 10px;
+    border: none;
+    outline: none;
+    transition: all .3s ease-in-out;
+}
+.single_box h5{
+    padding-top: 20px;
+    color: #413960;
+}
+.single_box p{
+    color: #585859;
+}
+footer{
+    background-color: #282531;
+    color: #ffffff;
+}
+.footer_content{
+    margin: 70px 0;
+}
+.footer_content p{
+    font-size: 11px;
+    line-height: 30px;
+}
+.footer_content ul li{
+    list-style: none;
+    font-size: 16px;
+    line-height: 30px;
+
 }
